@@ -5,23 +5,11 @@ Ejercicio 1
 
 Ejercicio 2
 
-Dijite la catidad de  n numeros para los conjuntos:2
-Dijite 1 numero para el conjunto v :2
-Dijite 1 numero para el conjunto v :3
-Dijite 1 numero para el conjunto w :4
-Dijite 1 numero para el conjunto w :5
-Conjunto v: [2.0, 3.0]
-Conjunto w: [4.0, 5.0]
-El producto punto de los vectores es: 23.0
+![image](https://github.com/user-attachments/assets/b29eff04-63d9-48e8-b9b7-711d68a5b33f)
+
 
 Ejercicio 3
 
-Dijite la catidad de  n numeros para los conjuntos:2
-Dijite 1 numero para el conjunto v :3
-Dijite 1 numero para el conjunto v :4
-Dijite 1 numero para el conjunto w :56
-Dijite 1 numero para el conjunto w :7
-Conjunto v: [3.0, 4.0]
-Conjunto w: [56.0, 7.0]
-Producto directo: [168.0, 28.0] 
+![image](https://github.com/user-attachments/assets/3f92a6c9-bb0d-44f2-9d7f-76d9dc3dfae1)
+
 
