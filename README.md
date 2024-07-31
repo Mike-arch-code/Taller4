@@ -1,6 +1,7 @@
 Ejercicio 1
 
-![image](https://github.com/user-attachments/assets/855c04e8-d497-4437-a76f-0df9725c559c)
+![image](https://github.com/user-attachments/assets/6b5caa70-b43e-4f30-8eaf-9dde3bc2c8ce)
+
 
 
 Ejercicio 2
