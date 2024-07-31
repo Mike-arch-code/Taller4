@@ -1,4 +1,4 @@
-def producto_punto():
+def producto_directo():
 
     while True:
         try:
@@ -26,9 +26,8 @@ def producto_punto():
             print("El valor ingresado no es un número real. Intente de nuevo.")
 
 
-    producto = sum(a * b for a, b in zip(v, w))
+    producto = [a * b for a, b in zip(v, w)]
 
     print("Conjunto v:",v)
     print("Conjunto w:",w)
-
-    print("El producto punto de los vectores es:",producto)
+    print("Producto directo:",producto)
